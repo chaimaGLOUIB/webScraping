@@ -1,0 +1,8 @@
+Nanny
+secretary
+assistant
+Household employee
+Nurse
+Saleswoman in store
+stewardess
+babysitter
