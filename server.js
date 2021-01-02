@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const mongoose = require('mongoose');
 
-const MONGODB_URL="mongodb+srv://ChaimaGLOUIB:Chaima1997@cluster0.oy5vl.gcp.mongodb.net/<indeedWomen>?retryWrites=true&w=majority"
+const MONGODB_URL=""
 
 app.use(cors());
 app.use(bodyParser.json());
